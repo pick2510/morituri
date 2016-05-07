@@ -97,3 +97,4 @@ OLD
 - fix %r for normal case release name
 - decide whether output-dir should be part of the relative filenames of things;
   right now it is; maybe split in to base and output ?
+Test
